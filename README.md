@@ -2,7 +2,7 @@
 
 # Deliverable(s)
 
-[Crypto_Clustering_starter_code.ipynb]
+[Crypto_Clustering_starter_code.ipynb](https://github.com/wrighang/19_CryptoClustering/blob/main/Crypto_Clustering.ipynb)
 
 ## Background
 In this challenge, I use my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
